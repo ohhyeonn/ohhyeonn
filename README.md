@@ -1,6 +1,7 @@
 <div align="center" >
-  
+  <img src="https://ohhyeonn.github.io/ohhyeonn/top.png" width="100%" height="10" />
   <img src="https://ohhyeonn.github.io/ohhyeonn/loveit.gif" width="250" height="250" />
+  <img src="https://ohhyeonn.github.io/ohhyeonn/bottom.png" width="100%" height="10" />
 
 </div>
 
