@@ -68,5 +68,7 @@ https://gist.github.com/rxaviers/7360908
 
 emoji icons link!!
 
+
+github 의 permalink 활용!!!
 --!>
 
