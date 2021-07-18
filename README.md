@@ -10,13 +10,13 @@
 <h4 align="center">📚 SSSStudy 📚</h4> 
 <p align="center">
   <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-HTML/CSS/ES6-yellow"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoots-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-MyBatis-red"/>
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-JAVA-orange?logo=JAVA"/></a>&nbsp
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-SpringBoots-navy?logo=springboot"/></a>&nbsp
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-MyBatis-red"/></a>
  <br>
-  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-MySQL-blue?"/></a>&nbsp
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-Oracle-black?logo=Oracle"/></a>&nbsp
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-React-blue?logo=React"/></a>&nbsp
  </p>
   
 <h2 align="center">
