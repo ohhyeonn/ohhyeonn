@@ -17,6 +17,8 @@
   <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-MySQL-blue?"/></a>&nbsp
   <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-Oracle-black?logo=Oracle"/></a>&nbsp
   <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-React-blue?logo=React"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-Thymeleaf-green?logo=thymeleaf"/></a>&nbsp
+
  </p>
   
 <h2 align="center">
