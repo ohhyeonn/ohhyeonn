@@ -1,3 +1,7 @@
+<div align="center" >
+<img src="https://ohhyeonn.github.io/ohhyeonn/background.png"/>
+</div>
+
 - readme thema !!! 
 
 - 간략한 자기소개 : 사는곳 생년 성별 
