@@ -9,14 +9,14 @@
 
 <h4 align="center">📚 SSSStudy 📚</h4> 
 <p align="center">
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-HTML/CSS/ES6-yellow"/></a>&nbsp
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-JAVA-orange?logo=JAVA"/></a>&nbsp
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-SpringBoots-navy?logo=springboot"/></a>&nbsp
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-MyBatis-red"/></a>
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-HTML/CSS/ES6-yellow"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-JAVA-orange?logo=JAVA"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-SpringBoots-navy?logo=springboot"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-MyBatis-red"/></a>
  <br>
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-MySQL-blue?"/></a>&nbsp
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-Oracle-black?logo=Oracle"/></a>&nbsp
-  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-React-blue?logo=React"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-MySQL-blue?"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-Oracle-black?logo=Oracle"/></a>&nbsp
+  <a href="https://github.com/ohhyeonn"><img src="https://img.shields.io/badge/-React-blue?logo=React"/></a>&nbsp
  </p>
   
 <h2 align="center">
