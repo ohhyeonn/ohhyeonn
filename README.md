@@ -1,11 +1,17 @@
 <div align="center" >
-<img src="https://ohhyeonn.github.io/ohhyeonn/background.png"/>
+  
+  <img src="https://ohhyeonn.github.io/ohhyeonn/loveit.gif" width="250" height="250" />
+
 </div>
 
-- readme thema !!! 
 
+# Hi, I'm Hyeon Oh 
+nice to meet you 👋
+
+
+
+- readme thema !!!
 - 간략한 자기소개 : 사는곳 생년 성별 
-
 - :bulb: 내가공부한 youtube link 
 - :bulb: 나의 대외 활동
 - :bulb: 앞으로 공부할 youtube나 주제링크 
