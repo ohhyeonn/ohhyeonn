@@ -22,7 +22,7 @@
  </p>
   
 <h2 align="center">
-   <img src="https://ohhyeonn.github.io/ohhyeonn/news.gif" width="30" > <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/ohhyeon.png"  height="30" /></a>
+   <a href="https://velog.io/@hyunong2/about" ><img src="https://ohhyeonn.github.io/ohhyeonn/news.gif" width="30" ></a> <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/ohhyeon.png"  height="30" /></a>
   <br/>
   <br/>
 </h2>
