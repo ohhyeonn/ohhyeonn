@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center" > Hi, I'm Hyeon Oh <img src="https://media.giphy.com/media/Jr5dpQGrwo5LT7Iwkw/giphy.gif" height="30" ></h1>
+<h1 align="center" > Hi, I'm Hyeon Oh <img src="https://media.giphy.com/media/Jr5dpQGrwo5LT7Iwkw/giphy.gif" height="30" >  <br> </h1>
 
 <h4 align="center">📚 SSSStudy 📚</h4> 
 <p align="center">
@@ -20,7 +20,7 @@
  </p>
   
 <h2 align="center">
-  <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/ohhyeon.png"  height="30" /></a>
+   <img src="https://ohhyeonn.github.io/ohhyeonn/news.gif" width="30" > <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/ohhyeon.png"  height="30" /></a>
   <br/>
   <br/>
 </h2>
