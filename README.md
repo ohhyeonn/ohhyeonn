@@ -2,12 +2,28 @@
   <img src="https://ohhyeonn.github.io/ohhyeonn/top.png" width="100%" height="10" />
   <img src="https://ohhyeonn.github.io/ohhyeonn/loveit.gif" width="250" height="250" />
   <img src="https://ohhyeonn.github.io/ohhyeonn/bottom.png" width="100%" height="10" />
-
 </div>
 
 
-# Hi, I'm Hyeon Oh 
-nice to meet you 👋
+<h1 align="center" > Hi, I'm Hyeon Oh  👋 </h1>
+
+<h4 align="center">📚 SSSStudy 📚</h4> 
+<p align="center">
+  <a href="https://velog.io/@hyunong2/about"><img src="https://img.shields.io/badge/-HTML/CSS/ES6-yellow"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoots-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-MyBatis-red"/>
+ <br>
+  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Oracle-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-React-blue"/>&nbsp
+ </p>
+  
+<h2 align="center">
+  👽 <span href="https://velog.io/@hyunong2/about" > Ohhyeon's Blog</span>
+  <br/>
+  <br/>
+</h2>
 
 
 
