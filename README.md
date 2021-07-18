@@ -20,7 +20,7 @@
  </p>
   
 <h2 align="center">
-  <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/Blog.png"  height="30" /></a>
+  <a href="https://velog.io/@hyunong2/about" > <img src="https://ohhyeonn.github.io/ohhyeonn/ohhyeon.png"  height="30" /></a>
   <br/>
   <br/>
 </h2>
