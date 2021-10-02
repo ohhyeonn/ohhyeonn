@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center" > Hi, I'm Hyeon Oh <img src="https://ohhyeonn.github.io/ohhyeonn/hi.gif" height="30" > </h1>
+<h1 align="center" style="border:none;" > Hi, I'm Hyeon Oh <img src="https://ohhyeonn.github.io/ohhyeonn/hi.gif" height="30" > </h1>
 <p>&nbsp</p>
 <p>&nbsp</p><p>&nbsp</p>
 <p>&nbsp</p>
